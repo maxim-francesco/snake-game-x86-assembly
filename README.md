@@ -52,7 +52,7 @@ A graphical **Snake game** developed in **x86 Assembly**, using low-level memory
 ## 🖼️ Preview
 
 > *(Optional: You can add a screenshot here)*  
-> ![Snake game screenshot](images/snake_game_preview.png)
+> ![Snake game screenshot](assembly_snake.png)
 
 ## 📌 Controls
 
